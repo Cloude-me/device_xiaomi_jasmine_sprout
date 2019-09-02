@@ -1,0 +1,3 @@
+add_lunch_combo aosp_jasmine_sprout-user
+add_lunch_combo aosp_jasmine_sprout-userdebug
+add_lunch_combo aosp_jasmine_sprout-eng

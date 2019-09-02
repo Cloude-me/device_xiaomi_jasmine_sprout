@@ -1,0 +1,7 @@
+[
+  {
+    "repository":  "AICP/bootable_recovery",
+    "target_path": "bootable/recovery",
+    "branch":      "p9.0"
+  }
+]
